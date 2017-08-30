@@ -1,0 +1,21 @@
+*{
+	box-sizing: border-box;
+}
+
+.container {
+
+	border-bottom: 1px solid black;
+	border-top: 1px solid black;
+}
+
+.image {
+	border-bottom: 1px solid black;
+	border-top: 1px solid black;
+	
+}
+
+.text {
+
+	border-bottom: 1px solid black;
+	border-top: 1px solid black;
+}
